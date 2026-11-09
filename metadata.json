@@ -1,0 +1,6 @@
+{
+  "name": "HospPlan 3D - Архитектурный 3D-планировщик больниц из DWG/DXF",
+  "description": "Импорт поэтажных планов больницы из DWG и DXF, распознавание геометрии стен и помещений, построение интерактивных изометрических 3D-схем, интерактивная экспликация и ручная разметка.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
